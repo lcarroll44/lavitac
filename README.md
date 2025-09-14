@@ -4,58 +4,60 @@
 💻 Inspiring Developer | Proven Project Manager | Turning Complex Problems into Simple Solutions
 🌍 Based in Dallas–Fort Worth, TX
 
+✨ “Passionate about building technology that empowers people, simplifies processes, and creates real-world impact.
+
 🛠 Tech Stack
 
 Languages & Frameworks:
 
-JavaScript (ES6+), HTML5, CSS3
+* JavaScript (ES6+), HTML5, CSS3
 
-React, Vite, TailwindCSS
+* React, Vite, TailwindCSS
 
-Node.js, Express
+* Node.js, Express
 
-SQL, MongoDB
+* SQL, MongoDB
 
-Tools & Platforms:
+* Tools & Platforms:
 
-Git/GitHub, Postman, Docker
+* Git/GitHub, Postman, Docker
 
-AWS (Solutions Architect training)
+* AWS (Solutions Architect training)
 
-Salesforce (Admin training)
+* Salesforce (Admin training)
 
-Tableau, Excel (Forecasting/Dashboards)
+* Tableau, Excel (Forecasting/Dashboards)
 
 🚀 Featured Projects
 
-📊 Profit & Loss Dashboard
+* 📊 Profit & Loss Dashboard
  – Dynamic P&L with forecasting & drop-downs
 
-🌦 Weather App
+* 🌦 Weather App
  – React + OpenWeather API with geolocation & forecast
 
-📚 Bookstore App
+* 📚 Bookstore App
  – CRUD web app using JS, API integration
 
-🧼 Clic’N Clean Business Site
+* 🧼 Clic’N Clean Business Site
  – Virtual cleaning service booking platform
 
 🌱 Currently Learning
 
-Advanced JavaScript (state management, async/await, ES modules)
+* Advanced JavaScript (state management, async/await, ES modules)
 
-Full-Stack development roadmap (React + Node + MongoDB)
+* Full-Stack development roadmap (React + Node + MongoDB)
 
-Salesforce Admin certification
+* Salesforce Admin certification
 
-AWS Solutions Architect – Cloud Infrastructure
+* AWS Solutions Architect – Cloud Infrastructure
 
 📫 Connect with Me
 
-💼 LinkedIn
+* 💼 LinkedIn
 
-🌐 Portfolio Website
+* 🌐 Portfolio Website
 
-📧 Email: carrolllavita96@gmail.com
+* 📧 Email: carrolllavita96@gmail.com
 
 ✨ Fun Stats
